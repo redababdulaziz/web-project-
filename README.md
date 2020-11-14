@@ -4,6 +4,13 @@
 <head> <title> pname </title> </head> 
 <body>
 
+
+
+
+
+
+
+
     <h3>Home</h3>
     <h3>Artists</h3>
  <form action="action_page.php" method="post">
